@@ -1,5 +1,6 @@
 {
     "name": "doan",
+    "homepage": "https://doan-client.vercel.app",
     "version": "0.1.0",
     "engines": {
         "node": "v16.13.0",
